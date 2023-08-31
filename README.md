@@ -30,9 +30,4 @@
   <img height=280 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateuscpg&layout=donut&langs_count=8&card_width=320&theme=dracula&title_color=blue" />
 </a>
 
-<br/>
-<br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateuscpg&repo=php-projects)](https://github.com/mateuscpg/php-projects)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateuscpg&repo=Testes_em_Python)](https://github.com/mateuscpg/Testes_em_Python)
